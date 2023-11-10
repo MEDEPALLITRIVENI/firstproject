@@ -59,4 +59,5 @@ Implement a program to check if a given number is a palindrome using a for loop.
 Create a program to generate a pattern of asterisks (stars) in a pyramid shape using nested for loops.
 
 21. Find the factorial of a number using recursion.
-THIS IS MY C++ WORKSHOP CONDUCTED BY GDSC
+THIS IS MY C++ WORKSHOP CONDUCTED BY GDS
+hi this is ramya

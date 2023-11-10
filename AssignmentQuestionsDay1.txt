@@ -1,0 +1,66 @@
+1. Calculate Factorial:
+Write a Java program to calculate the factorial of a given number using a for loop.
+
+2. Sum of Even Numbers:
+Create a program to calculate the sum of even numbers from 2 to 20 using a for loop.
+
+3. Guess the Number Game:
+Implement a simple number guessing game in Java. Generate a random number between 1 and 100, and let the user guess it using a do-while loop. Provide feedback on whether the guess is too high or too low until they guess the correct number.
+
+4. Prime Number Checker:
+Write a Java program to check if a given number is prime or not using conditional statements within a for loop.
+
+5. Fibonacci Sequence:
+Generate and print the first 20 numbers in the Fibonacci sequence using a for loop.
+
+6. Multiplication Table:
+Write a Java program to print the multiplication table of a given number using a for loop.
+
+7. Factorize a Number:
+Create a program to find and print all the factors of a given number using a for loop.
+
+8. Calculate Sum with while Loop:
+Implement a program to calculate the sum of all numbers from 1 to 100 using a while loop.
+
+9. Find the GCD with while Loop:
+Write a Java program to find the Greatest Common Divisor (GCD) of two numbers using a while loop.
+
+10. Print Fibonacci Series with for Loop:
+Create a program to print the Fibonacci series up to a given number n using a for loop.
+
+11. Check for Prime Numbers with for Loop:
+Write a Java program to check if a given number is prime using a for loop.
+
+12. Reverse a Number with while Loop:
+Implement a program to find and print the reverse of a given number using a while loop.
+
+13. Calculate Sum of Digits with do-while Loop:
+Create a program to calculate the sum of digits of a given number using a do-while loop.
+
+14. Print Multiplication Table with for Loop:
+Write a Java program to print the multiplication table of a given number using a for loop.
+
+15. Find Average with for Loop:
+Implement a program to find the average of a list of numbers using a for loop.
+
+16. Print Pascal's Triangle with Nested for Loops:
+Write a Java program to print Pascal's triangle up to a given number of rows using nested for loops.
+
+17. Find LCM with while Loop:
+Create a program to find the Least Common Multiple (LCM) of two numbers using a while loop.
+
+18. Count Digits with for Loop:
+Write a Java program to count the number of digits in a given number using a for loop.
+
+19. Check Palindrome with for Loop:
+Implement a program to check if a given number is a palindrome using a for loop.
+
+20. Print Pyramid Pattern with Nested for Loops:
+Create a program to generate a pattern of asterisks (stars) in a pyramid shape using nested for loops.
+
+21. Find the factorial of a number using recursion.
+
+
+
+
+
